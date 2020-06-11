@@ -1,0 +1,182 @@
+.navbar-brand img
+{
+    height: 160px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+#nav-bar
+{
+    background-image: url('img/bg.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.navbar-nav li
+{
+    padding: 0 55px 0 10px;
+}
+.navbar-nav li a
+{
+    float: left;
+}
+.navbar-toggler
+{
+    border: none !important;
+}
+.nav-link
+{
+    font-size: 16px;
+    color: #ffff !important;
+    font-weight: bold;
+}
+
+.display
+{
+    padding-top: 300px;
+}
+.center 
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
+  }
+  .text-1
+  {
+      font-size: 25px;
+      padding:10px 120px 80px 300px;
+      text-align: left;
+  }
+  #main-content
+  {
+      background-color: #ffd633;
+  }
+  .user
+  {
+      padding: 100px 0 20px;
+  }
+  .txt 
+  {
+      font-size: 25px;
+      padding: 10px 120px 100px 150px;
+      font-weight: normal;
+      text-align: left;
+  }
+  .title
+  {
+      text-align: center;
+      padding-top: 40px;
+      font-weight: 400;
+  }
+ .heading1
+ {
+     font-weight: 400;
+     color:black;
+     font-size: 32px;
+    
+ }
+ .heading2
+ {
+     font-weight: 400;
+     color:black;
+     font-size: 32px;
+ }
+  .title1
+  {
+      text-align: center;
+      padding-top: 80px;
+      font-weight: normal;
+  }
+  .txt1
+  {
+      font-size: 25px;
+      padding: 100 20 80 200;
+      text-align: left;
+  }
+  .txt2
+  {
+      font-size: 25px;
+      padding: 100px 50px 80px 10px;
+      text-align: left;
+  }
+  
+  .title4
+  {
+      font-size: 30px;
+      text-align: center;
+      color: white;
+      padding: 40px 0px;
+      background-color:#66cc66;
+      font-weight: lighter;
+  }
+ .title2
+ {
+     padding-top: 50px;
+     font-weight: normal;
+ }
+ .user1
+ {
+     padding: 50px 30px 100px 20px;
+ }
+ #contact
+ {
+     background-color:#ffd633 ;
+ }
+ .title3
+ {
+     text-align: center;
+     padding-top: 100px;
+     font-weight: normal;
+     font-style: normal;
+     font-size: 50px;
+ }
+ .txt3
+ {
+     text-align: center;
+     color: grey;
+ }
+.input-group
+{
+    padding: 0 500px 100 450px;
+}
+
+.footer-main-div
+{
+    background-color: #cccc16;
+    padding:0px;
+    margin: 0px;
+}
+.social-icons
+{
+    text-align: center;
+}
+.fa-facebook
+{
+    color: white;
+    padding: 50px 10px 15px;
+}
+.fa-twitter
+{
+    color: white;
+    padding: 50px 10px 15px;
+}
+.fa-wifi
+{
+    color: white;
+    padding: 50px 10px 15px;
+}
+.fa-instagram
+{
+    color: white;
+    padding: 50px 10px 15px;
+}
+.fa-google-plus
+{
+    color: white;
+    padding: 50px 10px 15px;
+}
+.txt4
+{
+    color: white;
+    padding-bottom: 50px;
+    font-size: smaller;
+}
